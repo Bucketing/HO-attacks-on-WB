@@ -1,0 +1,1 @@
+This repository contains the core implementation of the second-order Bucketing Computational Analysis (BCA) and the computation traces acquired on our first-order masked white-box AES implementation .
